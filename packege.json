@@ -1,7 +1,6 @@
 {
     "name": "learn-heroku",
     "version": "0.0.1",
-    "description": "A small example of a web app using Heroku",
     "dependencies": {
         "http-server": "^0.9.0",
         "live-server": "^1.2.0"
